@@ -7,6 +7,6 @@ public class Student {
 
         System.out.println("Task 2 yapıldı");
 
-        System.out.println("tekrarmerhaba");
+
     }
 }
